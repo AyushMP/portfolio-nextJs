@@ -30,13 +30,13 @@ The following behaviors are considered unacceptable:
 
 ## Reporting and Enforcement
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it by contacting [email@example.com]. All reports will be treated confidentially.
+If you experience or witness any behavior that violates this Code of Conduct, please report it by contacting ayushpillay1234@gmail.com. All reports will be treated confidentially.
 
 Our team will review and address reported incidents, and take appropriate action which may include warnings, temporary bans, or permanent bans from community spaces.
 
 ## Contact Information
 
-For questions or concerns about this Code of Conduct, please contact us at [email@example.com].
+For questions or concerns about this Code of Conduct, please contact us at ayushpillay1234@gmail.com.
 
 ---
 
