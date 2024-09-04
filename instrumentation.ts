@@ -1,9 +1,4 @@
 export async function register() {
-  if (process.env.NEXT_RUNTIME === "nodejs") {
-    await import("./sentry.server.config");
-  }
-
-  if (process.env.NEXT_RUNTIME === "edge") {
-    await import("./sentry.edge.config");
-  }
+  // Sentry-related code removed
+  // Add any other initialization logic here if needed
 }

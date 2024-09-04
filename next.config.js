@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const path = require("path");
-const { withSentryConfig } = require("@sentry/nextjs");
 
 const nextConfig = {
   reactStrictMode: true,
@@ -13,9 +12,3 @@ const nextConfig = {
   },
 };
 
-module.exports = withSentryConfig(nextConfig, {
-  org: "nixlab-technologies",
-  project: "portfolio-nextjs",
-  authToken: process.env.SENTRY_AUTH_TOKEN,
-  silent: false,
-});
